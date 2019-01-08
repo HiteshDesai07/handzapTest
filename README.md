@@ -45,7 +45,13 @@ Required Dependencies
  Data exchange format is application/json
  
   GET /article/authors -returns available authors
+  
+  
   GET /article/authors/{authorName} -returns articles by authorName where authorName is path variable
+  
+  
   GET /article:search?title=&description= -returns articles by title or description where title and description are query params
+  
+  
   
   Note : considered 10 articles data only to avoid more memory consumptions. 
