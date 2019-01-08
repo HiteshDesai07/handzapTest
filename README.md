@@ -30,8 +30,14 @@ Required Dependencies
  
  
  javax.ws.rs-api = for j2ee rest api specification
+ 
+ 
  jersey-container-servlet = for javax.ws.rs implementation.
+ 
+ 
  jersey-media-json-jackson = for json data exchange format.
+ 
+ 
  
  
  Available Rest end points to query article data
