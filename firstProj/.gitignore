@@ -1,0 +1,40 @@
+# IDEs and editors
+/.idea/*
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.iml
+
+# Windows shortcuts
+*.lnk
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.tar.gz
+*.rar
+
+logs
+*.log
+
+/target/
+/.classpath
+/.project
+/.settings/
+/bin/
