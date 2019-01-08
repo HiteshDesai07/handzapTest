@@ -27,6 +27,8 @@ Required Dependencies
         </dependency>
         
  Jsoup = use for data crawling from web.
+ 
+ 
  javax.ws.rs-api = for j2ee rest api specification
  jersey-container-servlet = for javax.ws.rs implementation.
  jersey-media-json-jackson = for json data exchange format.
